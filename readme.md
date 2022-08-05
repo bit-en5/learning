@@ -8,7 +8,11 @@
     </td>
   </tr>
   <tr>
-    <td><img width=120px src="/covers/Create a Web Application Scaffold Generator in Go.jpg"></td>
+    <td>
+      <a href="https://www.manning.com/liveproject/create-a-web-application-scaffold-generator-in-go">
+        <img width=120px src="/covers/Create a Web Application Scaffold Generator in Go.jpg">
+      </a>
+    </td>
     <td>
       <p><strong>Create a Web Application Scaffold Generator in Go</strong></br>April 2021</br><i>Amit Saha</i></p>
       <p><a href="https://www.manning.com">Manning</a></p>
