@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img width=120px src="/covers/Generic_Go.png"></td>
-    <td><p>Generic Go</p></td>
+    <td><p><strong>Generic Go</strong></p></td>
   </tr>
   <tr>
     <td><img width=120px src="/covers/Create a Web Application Scaffold Generator in Go.jpg"></td>
