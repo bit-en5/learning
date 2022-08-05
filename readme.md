@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="/covers/Generic_Go.png" alt="1" width=360px></td>
+    <td><img src="/covers/Generic_Go.png" alt="1" width=100px></td>
     <td><img src="/covers/Generic_Go.png" alt="1" width=360px height=auto></td>
   </tr>
 </table>
