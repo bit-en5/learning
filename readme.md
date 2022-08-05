@@ -1,7 +1,11 @@
 <table>
   <tr>
     <td><img width=120px src="/covers/Generic_Go.png"></td>
-    <td><p><strong>Generic Go</strong></p></td>
+    <td>
+      <p><strong>Generic Go</strong></p>
+      <p>November 2021</p>
+      <p><i>Preslav Rachev</i></p>
+    </td>
   </tr>
   <tr>
     <td><img width=120px src="/covers/Create a Web Application Scaffold Generator in Go.jpg"></td>
