@@ -1,4 +1,4 @@
-![](/covers/Generic Go.png | width=360)
+![book](/covers/Generic_Go.png "book")
 
 <table>
   <tr>
