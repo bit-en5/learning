@@ -1,0 +1,10 @@
+<table>
+  <tr>
+    <td> <img src="/covers/Generic Go.png" alt="1" width=360px height=640px></td>
+    <td><img src="/covers/Create a Web Application Scaffold Generator in Go.jpg" alt="2" width=360px height=640px></td>
+  </tr>
+  <tr>
+    <td><img src="/covers/Mastering GoLang.jpg" alt="3" width=360px height=640px></td>
+    <td><img src="/covers/Data Serialization in Go.png" align="right" alt="4" width=360px height=640px></td>
+  </tr>
+</table>
