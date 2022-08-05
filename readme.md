@@ -1,6 +1,7 @@
 <table>
   <tr>
-    <td> <img src="/covers/Generic Go.png" alt="1" width=360px></td>
+    <td>![](/covers/Generic Go.png | width=360)</td>
+    <td> <img src="/covers/Generic_Go.png" alt="1" width=360px></td>
     <td><img src="/covers/Create a Web Application Scaffold Generator in Go.jpg" alt="2" width=360px></td>
   </tr>
   <tr>
